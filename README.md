@@ -70,7 +70,7 @@ The goal was to explore and analyze a **home network** while also evaluating its
 
 ---
 
-📸 *Exemple de diagramme réseau / Network diagram example:*  
+📸 *graphique/tableau émissions CO₂ par pays:*  
 
 ![Diagram](docs/co2-comparison.jpeg)  
 

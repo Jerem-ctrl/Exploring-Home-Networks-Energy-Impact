@@ -72,7 +72,7 @@ The goal was to explore and analyze a **home network** while also evaluating its
 
 📸 *Exemple de diagramme réseau / Network diagram example:*  
 
-![Diagram](docs/network-diagram.png)  
+![Diagram](docs/co2-comparison.jpeg)  
 
 📊 *Exemple de tableau énergétique / Energy analysis example:*  
 
